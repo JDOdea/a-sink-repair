@@ -1,0 +1,78 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    },
+    {
+      "id": 3,
+      "name": "Mikey"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "4",
+      "plumberId": "1",
+      "dateCreated": "09/06/2023",
+      "id": 1
+    },
+    {
+      "requestId": "4",
+      "plumberId": "1",
+      "dateCreated": "09/06/2023",
+      "id": 2
+    },
+    {
+      "requestId": "4",
+      "plumberId": "2",
+      "dateCreated": "09/06/2023",
+      "id": 3
+    },
+    {
+      "requestId": "4",
+      "plumberId": "1",
+      "dateCreated": "09/06/2023",
+      "id": 4
+    },
+    {
+      "requestId": "4",
+      "plumberId": "3",
+      "dateCreated": "09/06/2023",
+      "id": 5
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Persistent leaky faucet",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "id": 2,
+      "description": "Clogged sink drain",
+      "address": "2011 Richard Jones Rd",
+      "budget": 200,
+      "neededBy": "2021-09-12"
+    },
+    {
+      "id": 3,
+      "description": "Sink pipe replacement",
+      "address": "1110 Rush Ct.",
+      "budget": 500,
+      "neededBy": "2021-08-14"
+    },
+    {
+      "description": "Toilet not flushing",
+      "address": "1700 Woodrow Way",
+      "budget": "500",
+      "neededBy": "2023-06-20",
+      "id": 4
+    }
+  ]
+}
